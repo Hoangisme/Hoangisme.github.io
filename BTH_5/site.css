@@ -1,23 +1,4 @@
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
+/* NguyenHoang */
 *{
     padding: 0;
     margin: 0;
@@ -141,9 +122,7 @@ time, mark, audio, video {
 }
 .register-card .card:hover{
     background-position: -248px -65px;
-    
 }
-
 .img-banner{
     background: url(./images/slider-01.gif) no-repeat center center;
     width: 491px;
@@ -288,10 +267,6 @@ time, mark, audio, video {
 .nav-news a:hover{
     opacity: 0.6;
 }
-
-.more-news {
-    margin-left: 117px;
-}
 .news-detail-info{
     width: 100%;
     height: 175px;
@@ -421,4 +396,3 @@ time, mark, audio, video {
 .rs{
     margin-top: 5px;
 }
-
