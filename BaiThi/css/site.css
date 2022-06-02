@@ -22,7 +22,7 @@ h1,h2 {
 }
 .bot {
     background-color: #1e1e1e;
-    padding-bottom: 50%;
+    padding-bottom: auto;
 }
 .bot-news {
     color: white;
@@ -36,4 +36,12 @@ h1,h2 {
     border: 10px;
     padding: 10px;
     display: block;
+}
+.image-item {
+    position: relative;
+    cursor: pointer;
+}
+.image-item img {
+    width: auto;
+    height: auto; 
 }
