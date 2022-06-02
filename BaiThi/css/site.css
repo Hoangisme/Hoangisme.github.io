@@ -29,7 +29,6 @@ h1,h2 {
 }
 .canhan {
     background-image: url(/images/personal.jpg);
-    border: 0.1875em solid #0F1C3F;
     border-radius: 50%;
     height: 10em;
     width: 10em;
